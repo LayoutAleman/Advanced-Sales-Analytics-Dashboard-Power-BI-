@@ -37,13 +37,6 @@ The goal is to help stakeholders make data-driven decisions by clearly visualizi
 
 ---
 
-## 📊 Sample Visuals
-
-![Dashboard Preview](your-image-link-here)  
-_**Note**: Replace this with an actual screenshot or upload._
-
----
-
 ## 📄 Dataset
 
 - Simulated e-commerce sales data.
